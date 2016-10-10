@@ -5,9 +5,7 @@
 ## Introduction
 A sample project that demonstrates (in VB.NET) how to use the ThreadSupport library (DLL).
 
-## .NET Version: 3.5
-
-## Prerequisites
+## .NETerequisites
 *  Visual Studion 2010
 *  ThreadSupport ()
 
